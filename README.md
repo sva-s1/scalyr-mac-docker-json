@@ -72,6 +72,17 @@ If your main goal is quick, hassle-free integration on macOS, the **JSON** drive
 
 ---
 
+## Upcoming Features
+We're continually evolving the scalyr-mac-docker-json project to provide even more valuable insights and capabilities. Upcoming improvements include:
+
+- Enhanced Log Parsing: Implementing parsing logic to automatically derive proper node logging levels (e.g., info, error, etc.) from the logs.
+- Expanded JSON Structure: Adding additional fields to the JSON structure to ensure logs appear with enriched metadata under SDL's XDR view.
+- Improved Customization: Allowing further customization of log attributes for deeper integration with your monitoring and alerting workflows.
+
+Stay tuned for updates and enhancements that aim to make your log management even more seamless!
+
+---
+
 ## License & Disclaimer
 
 This project is licensed under the terms of the MIT License:
