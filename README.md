@@ -4,6 +4,8 @@
 
 Are you developing on a Mac (Intel **or** Apple Silicon) and need to ship logs to Scalyr (SentinelOne)? Tired of hearing there’s “no official macOS agent?” This project solves that pain by running the **Scalyr Docker JSON agent** in a container on **any** modern Mac environment. Collect your Mac **host logs** with minimal setup, no fuss—and if you decide to also ship Docker container logs, this setup is easy to adapt.
 
+![screenshot](screenshot-example.png)
+
 ## Pain & Motivation
 
 > **“We have logs on our Mac dev machines, but Scalyr doesn’t officially support a native macOS agent. We need to unify logs across all environments.”**
